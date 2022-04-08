@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ConsumerApp</string>
+
+    <string name="NotFound">User Not Found</string>
+    <string name="Progress">Sedang Memuat Data</string>
+    <string name="Username">Username</string>
+</resources>
